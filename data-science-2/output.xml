@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skipped="0" tests="7" time="2.196"><testcase classname="test_submit" file="test_submit.py" line="3" name="test_q1" time="0.001"><system-out>stat = 0.9961519837379456
+p-value = 5.681722541339695e-07
+</system-out></testcase><testcase classname="test_submit" file="test_submit.py" line="8" name="test_q2" time="0.002"><system-out>stat = 13.03363513594265
+p-value = 0.001478366424594868
+</system-out></testcase><testcase classname="test_submit" file="test_submit.py" line="13" name="test_q3" time="0.002"><system-out>stat = 510.24655809881176
+p-value = 1.5898922918029537e-111
+</system-out></testcase><testcase classname="test_submit" file="test_submit.py" line="18" name="test_q4" time="0.002"><system-out>stat = 45.91534331977353
+p-value = 1.0705572101256944e-10
+</system-out></testcase><testcase classname="test_submit" file="test_submit.py" line="23" name="test_q5" time="0.003"><system-out>stat = -3.2232436467501855
+p-value = 0.0013080041830140115
+</system-out></testcase><testcase classname="test_submit" file="test_submit.py" line="28" name="test_q6" time="0.002"><system-out>stat = 0.6389304914365109
+p-value = 0.5230827295440921
+</system-out></testcase><testcase classname="test_submit" file="test_submit.py" line="33" name="test_q7" time="0.002"><system-out>stat = 3.516987632488539
+p-value = 0.0004660129347389851
+</system-out></testcase></testsuite>

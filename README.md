@@ -1,3 +1,3 @@
 # Codenation_Desafios
 
-Repostitórios destinados aos desafios propostos no AceleraDev da Codenation.
+Repostitório destinados aos desafios propostos no AceleraDev da Codenation.

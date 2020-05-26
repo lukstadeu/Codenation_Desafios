@@ -1,0 +1,16 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.9, pytest-4.6.2, py-1.8.0, pluggy-0.12.0 -- /home/lucas/codenation/venv/bin/python
+cachedir: .pytest_cache
+rootdir: /home/lucas/codenation/data-science-4
+collecting ... collected 7 items
+
+test_submit.py::test_q1 PASSED                                           [ 14%]
+test_submit.py::test_q2 PASSED                                           [ 28%]
+test_submit.py::test_q3 PASSED                                           [ 42%]
+test_submit.py::test_q4 PASSED                                           [ 57%]
+test_submit.py::test_q5 PASSED                                           [ 71%]
+test_submit.py::test_q6 PASSED                                           [ 85%]
+test_submit.py::test_q7 PASSED                                           [100%]
+
+----- generated xml file: /home/lucas/codenation/data-science-4/output.xml -----
+=========================== 7 passed in 3.72 seconds ===========================

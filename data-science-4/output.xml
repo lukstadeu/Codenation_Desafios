@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skipped="0" tests="7" time="3.720"><testcase classname="test_submit" file="test_submit.py" line="3" name="test_q1" time="0.001"></testcase><testcase classname="test_submit" file="test_submit.py" line="11" name="test_q2" time="0.006"></testcase><testcase classname="test_submit" file="test_submit.py" line="16" name="test_q3" time="0.001"></testcase><testcase classname="test_submit" file="test_submit.py" line="21" name="test_q4" time="0.018"></testcase><testcase classname="test_submit" file="test_submit.py" line="26" name="test_q5" time="0.005"><system-out>Outliers: 22.03%
+</system-out></testcase><testcase classname="test_submit" file="test_submit.py" line="34" name="test_q6" time="0.342"><system-out>Documentos: 	 1773
+Termos:  	 27335
+</system-out></testcase><testcase classname="test_submit" file="test_submit.py" line="39" name="test_q7" time="0.353"></testcase></testsuite>
